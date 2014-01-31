@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Contatos Polis\n"
 "POT-Creation-Date: 2014-01-30 22:22-0300\n"
-"PO-Revision-Date: 2014-01-31 15:05-0300\n"
+"PO-Revision-Date: 2014-01-31 19:09-0300\n"
 "Last-Translator: Diego Rojas <diego@brasa.art.br>\n"
 "Language-Team: brasa.art.br <contato@brasa.art.br>\n"
 "Language: pt_BR\n"
@@ -28,7 +28,7 @@ msgstr "RoloPress"
 
 #: ../header.php:53
 msgid "Skip to main"
-msgstr ""
+msgstr "Pular para principal"
 
 #: ../company-add.php:31
 msgid ""
@@ -59,7 +59,7 @@ msgstr "* Estado"
 
 #: ../notes.php:14
 msgid "This item is password protected. Enter the password to view notes."
-msgstr ""
+msgstr "Este ítem é protegido por senha. Entre com a senha para ver."
 
 #: ../notes.php:24
 msgid "No Notes"
@@ -88,11 +88,11 @@ msgstr "Cancelar anexos para a nota"
 
 #: ../notes.php:71
 msgid "You must be "
-msgstr ""
+msgstr "Você precisa"
 
 #: ../notes.php:71
 msgid "logged in "
-msgstr ""
+msgstr "logado em"
 
 #: ../notes.php:71
 msgid " to leave a note."
@@ -100,7 +100,7 @@ msgstr "para deixar uma nota."
 
 #: ../notes.php:78
 msgid "Logged in as "
-msgstr ""
+msgstr "Logado como"
 
 #: ../notes.php:78
 msgid "Log out "
@@ -108,7 +108,7 @@ msgstr "Logout "
 
 #: ../notes.php:122
 msgid "Your note is awaiting moderation."
-msgstr ""
+msgstr "Sua mensagem está aguardando moderação."
 
 #: ../notes.php:137
 #, php-format
@@ -208,19 +208,19 @@ msgstr "Fóruns"
 
 #: ../library/admin/admin-dashboard.php:50
 msgid "Subscribe to RSS"
-msgstr ""
+msgstr "Assine o RSS"
 
 #: ../library/admin/admin-dashboard.php:50
 msgid "Subscribe via Email"
-msgstr ""
+msgstr "Assine por Email"
 
 #: ../library/admin/admin-dashboard.php:58
 msgid "RoloPress Help and Support"
-msgstr ""
+msgstr "RoloPress Ajuda e Suporte"
 
 #: ../library/admin/admin-dashboard.php:59
 msgid "RoloPress News"
-msgstr ""
+msgstr "RoloPress Notícias"
 
 #: ../library/admin/admin-branding.php:40
 msgid "Documentation"
@@ -505,11 +505,11 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:280
 msgid "Legal Status"
-msgstr ""
+msgstr "Estatuto Jurídico"
 
 #: ../library/setup/setup-fields.php:375
 msgid "Information Source"
-msgstr ""
+msgstr "Informação fonte"
 
 #: ../library/setup/setup-fields.php:410 ../library/setup/setup-fields.php:415
 msgid "Popular Movements"
@@ -517,7 +517,7 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:410
 msgid "Indigenous People"
-msgstr ""
+msgstr "Povos Indígenas"
 
 #: ../library/setup/setup-fields.php:410
 msgid "Fishermen"
@@ -525,11 +525,11 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:410
 msgid "Quilombolas"
-msgstr ""
+msgstr "Quilombolas"
 
 #: ../library/setup/setup-fields.php:410
 msgid "Cooperative of paper collectors"
-msgstr ""
+msgstr "Cooperativa de coletores de papel"
 
 #: ../library/setup/setup-fields.php:410 ../library/setup/setup-fields.php:425
 #: ../library/setup/setup-fields.php:440 ../library/setup/setup-fields.php:455
@@ -554,15 +554,15 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:440
 msgid "Executive - City"
-msgstr ""
+msgstr "Executivo - Cidade"
 
 #: ../library/setup/setup-fields.php:440
 msgid "Executive - State"
-msgstr ""
+msgstr "Executivo - Estado"
 
 #: ../library/setup/setup-fields.php:440
 msgid "Executive - Federal"
-msgstr ""
+msgstr "Executivo - Federal"
 
 #: ../library/setup/setup-fields.php:440
 #, fuzzy
@@ -575,11 +575,11 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:440
 msgid "Defensoria"
-msgstr ""
+msgstr "Defensoria"
 
 #: ../library/setup/setup-fields.php:440
 msgid "Autarquia"
-msgstr ""
+msgstr "Autarquia"
 
 #: ../library/setup/setup-fields.php:440
 msgid "Public Foundations"
@@ -587,7 +587,7 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:445
 msgid "Public Sector"
-msgstr ""
+msgstr "Setor Público"
 
 #: ../library/setup/setup-fields.php:460
 msgid "Professional, Academic and Research Entities"
@@ -595,15 +595,15 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:470
 msgid "Urban Development"
-msgstr ""
+msgstr "Desenvolvimento Urbano"
 
 #: ../library/setup/setup-fields.php:470
 msgid "Environment"
-msgstr ""
+msgstr "Ambiente"
 
 #: ../library/setup/setup-fields.php:470
 msgid "Education"
-msgstr ""
+msgstr "Educação"
 
 #: ../library/setup/setup-fields.php:475
 msgid "Non-governmental organizations"
@@ -624,7 +624,7 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:490
 msgid "Businessmen"
-msgstr ""
+msgstr "Empresário"
 
 #: ../library/setup/setup-fields.php:514
 #, fuzzy
@@ -641,23 +641,23 @@ msgstr ""
 
 #: ../library/setup/setup-fields.php:514 ../library/setup/setup-fields.php:529
 msgid "Network"
-msgstr ""
+msgstr "Rede"
 
 #: ../library/setup/setup-fields.php:519
 msgid "Participation spaces"
-msgstr ""
+msgstr "Áreas de participação"
 
 #: ../library/setup/setup-fields.php:529
 msgid "Conflict"
-msgstr ""
+msgstr "Conflito"
 
 #: ../library/setup/setup-fields.php:534
 msgid "Environmental impacts"
-msgstr ""
+msgstr "Impacto Ambiental"
 
 #: ../library/setup/setup-fields.php:549
 msgid "Rolopress Type"
-msgstr ""
+msgstr "RoloPress Modelo"
 
 #: ../library/setup/setup-fields.php:552
 #: ../library/functions/template-functions.php:285
@@ -687,7 +687,7 @@ msgstr "Áreas de Interesse"
 
 #: ../library/widgets/add-company-form.php:17
 msgid "Displays Add Company Form"
-msgstr ""
+msgstr "Exibir campo adicionar Instituição"
 
 #: ../library/widgets/add-company-form.php:19
 #: ../library/widgets/add-company-form.php:49
@@ -738,11 +738,11 @@ msgstr "Número:"
 
 #: ../library/widgets/tags.php:143 ../library/widgets/companies.php:145
 msgid "Largest:"
-msgstr ""
+msgstr "Maior:"
 
 #: ../library/widgets/tags.php:147 ../library/widgets/companies.php:149
 msgid "Smallest:"
-msgstr ""
+msgstr "Menor:"
 
 #: ../library/widgets/tags.php:151 ../library/widgets/companies.php:153
 msgid "Unit:"
@@ -756,7 +756,7 @@ msgstr "Excluir:"
 #: ../library/widgets/tags.php:164 ../library/widgets/companies.php:166
 #: ../library/widgets/pages.php:170 ../library/widgets/categories.php:144
 msgid "Include:"
-msgstr ""
+msgstr "Incluir:"
 
 #: ../library/widgets/tags.php:168 ../library/widgets/companies.php:170
 msgid "Link:"
@@ -786,7 +786,7 @@ msgstr ""
 
 #: ../library/widgets/bookmarks.php:18 ../library/widgets/bookmarks.php:89
 msgid "Bookmarks"
-msgstr ""
+msgstr "Marcadores"
 
 #: ../library/widgets/bookmarks.php:134
 msgid "Categories:"
@@ -819,19 +819,19 @@ msgstr "Limite:"
 
 #: ../library/widgets/bookmarks.php:179
 msgid "Include Bookmarks:"
-msgstr ""
+msgstr "Incluir marcações:"
 
 #: ../library/widgets/bookmarks.php:183
 msgid "Exclude Bookmarks:"
-msgstr ""
+msgstr "Excluir Marcações"
 
 #: ../library/widgets/bookmarks.php:187
 msgid "Bookmarks Order:"
-msgstr ""
+msgstr "Ordem dos Marcadores:"
 
 #: ../library/widgets/bookmarks.php:194
 msgid "Bookmarks Orderby:"
-msgstr ""
+msgstr "Marcador ordenado por:"
 
 #: ../library/widgets/bookmarks.php:212
 msgid "Between:"
@@ -847,7 +847,7 @@ msgstr ""
 
 #: ../library/widgets/bookmarks.php:229
 msgid "Categorize?"
-msgstr ""
+msgstr "Categorizar?"
 
 #: ../library/widgets/bookmarks.php:233
 msgid "Show description?"
@@ -859,11 +859,11 @@ msgstr ""
 
 #: ../library/widgets/bookmarks.php:241
 msgid "Show rating?"
-msgstr ""
+msgstr "Mostrar classificação?"
 
 #: ../library/widgets/bookmarks.php:245
 msgid "Show updated?"
-msgstr ""
+msgstr "Mostrar atualização?"
 
 #: ../library/widgets/bookmarks.php:249
 msgid "Show images?"
@@ -875,7 +875,7 @@ msgstr "Mostrar nome?"
 
 #: ../library/widgets/bookmarks.php:257
 msgid "Show private?"
-msgstr ""
+msgstr "Mostrar privacidade?"
 
 #: ../library/widgets/owners.php:16
 msgid ""
@@ -895,6 +895,8 @@ msgid ""
 "Displays a list of users (owners) that have created items.  Best for "
 "multiuser installs where you would want to see what items each user created."
 msgstr ""
+"Exibição da lista de usuários (donos) que criaram os ítens. Ótimo para "
+"instalação multiusuários onde você pode ver ítens criado por cada suário."
 
 #: ../library/widgets/owners.php:96
 msgid "Feed:"
@@ -918,7 +920,7 @@ msgstr "html"
 
 #: ../library/widgets/owners.php:119 ../library/widgets/recent-items.php:142
 msgid "Show post count?"
-msgstr ""
+msgstr "Mostrar contagem dos contatos?"
 
 #: ../library/widgets/owners.php:123
 msgid "Exclude admin?"
@@ -948,7 +950,7 @@ msgstr "%1$s"
 
 #: ../library/widgets/recent-notes.php:105
 msgid "Displays your recently created Notes."
-msgstr ""
+msgstr "Exibir todos as notas recentemente criadas."
 
 #: ../library/widgets/recent-notes.php:115
 msgid "Number of notes to show:"
@@ -956,7 +958,7 @@ msgstr "Número de notas para mostrar:"
 
 #: ../library/widgets/recent-notes.php:120
 msgid "Show Date and Time:"
-msgstr ""
+msgstr "Mostrar data e hora:"
 
 #: ../library/widgets/search.php:16
 msgid ""
@@ -970,7 +972,7 @@ msgstr "Procurar"
 
 #: ../library/widgets/search.php:93
 msgid "Search Label:"
-msgstr ""
+msgstr "Campo de pesquisa:"
 
 #: ../library/widgets/search.php:97
 msgid "Search Text:"
@@ -978,7 +980,7 @@ msgstr "Procurar Texto:"
 
 #: ../library/widgets/search.php:104
 msgid "Search Submit:"
-msgstr ""
+msgstr "Enviar busca:"
 
 #: ../library/widgets/search.php:109
 msgid "Use theme's"
@@ -1007,7 +1009,7 @@ msgstr ""
 #: ../library/widgets/recent-items.php:24
 #: ../library/widgets/recent-items.php:103
 msgid "Recent Items"
-msgstr ""
+msgstr "Ítens recente"
 
 #: ../library/widgets/recent-items.php:54
 msgid "Select Year"
@@ -1031,7 +1033,7 @@ msgstr "Selecionar Post"
 
 #: ../library/widgets/recent-items.php:108
 msgid "Displays your recently created items."
-msgstr ""
+msgstr "Exibir todos os seus ítens recentemente criados."
 
 #: ../library/widgets/recent-items.php:133
 msgid "Before:"
@@ -1043,7 +1045,7 @@ msgstr "Depois:"
 
 #: ../library/widgets/company-details.php:17
 msgid "Displays all details for your company."
-msgstr ""
+msgstr "Exibir todos os detalhes de sua Instituição"
 
 #: ../library/widgets/company-details.php:19
 #: ../library/widgets/company-details.php:26
@@ -1062,6 +1064,8 @@ msgid ""
 "This is a Smart Widget, which means it only displays when it is supposed to: "
 "when you view an individual company page."
 msgstr ""
+"Este é um Widget Inteligente, o que significa que só aparece quando você "
+"visualiza uma página específica de empresa."
 
 #: ../library/widgets/pages.php:18
 msgid ""
@@ -1082,7 +1086,7 @@ msgstr ""
 
 #: ../library/widgets/pages.php:145
 msgid "Sort Order:"
-msgstr ""
+msgstr "Ordem dos resultados:"
 
 #: ../library/widgets/pages.php:152 ../library/widgets/categories.php:156
 msgid "Depth:"
@@ -1124,11 +1128,11 @@ msgstr "Formato da Data:"
 
 #: ../library/widgets/pages.php:214 ../library/widgets/categories.php:180
 msgid "Hierarchical?"
-msgstr ""
+msgstr "Hierarquia?"
 
 #: ../library/widgets/pages.php:218
 msgid "Show home?"
-msgstr ""
+msgstr "Mostrar home?"
 
 #: ../library/widgets/categories.php:16
 msgid ""
@@ -1153,23 +1157,23 @@ msgstr "Categoria Atual:"
 
 #: ../library/widgets/categories.php:184
 msgid "Use description for title?"
-msgstr ""
+msgstr "Usar descrição para título?"
 
 #: ../library/widgets/categories.php:188
 msgid "Show last update?"
-msgstr ""
+msgstr "Mostrar última atualização?"
 
 #: ../library/widgets/categories.php:192
 msgid "Show count?"
-msgstr ""
+msgstr "Mostrar contagem?"
 
 #: ../library/widgets/categories.php:200
 msgid "Show RSS feed?"
-msgstr ""
+msgstr "Mostrar feed RSS?"
 
 #: ../library/widgets/contact-details.php:17
 msgid "Displays all details for your contact."
-msgstr ""
+msgstr "Exibir todos os detalhes de seu contato."
 
 #: ../library/widgets/contact-details.php:19
 #: ../library/widgets/contact-details.php:26
@@ -1188,10 +1192,12 @@ msgid ""
 "This is a Smart Widget, which means it only displays when it is supposed to: "
 "when you view an individual contact page."
 msgstr ""
+"Este é um Widget Inteligente, o que significa que só aparece quando você "
+"visualiza uma página específica de contato."
 
 #: ../library/widgets/add-contact-form.php:17
 msgid "Displays Add Contact Form"
-msgstr ""
+msgstr "Exibir campo adicionar Instituição"
 
 #: ../library/widgets/add-contact-form.php:19
 #: ../library/widgets/add-contact-form.php:49
@@ -1273,17 +1279,17 @@ msgstr "Estado"
 
 #: ../library/functions/template-functions.php:163
 msgid "Company that Operates "
-msgstr ""
+msgstr "Instituição Operante"
 
 #: ../library/functions/template-functions.php:168
 msgid "Role "
-msgstr ""
+msgstr "Papel"
 
 #: ../library/functions/template-functions.php:173
 #: ../library/functions/template-functions.php:463
 #: ../library/functions/template-functions.php:807
 msgid "Observation "
-msgstr ""
+msgstr "Observação"
 
 #: ../library/functions/template-functions.php:180
 #: ../library/functions/template-functions.php:467
@@ -1294,11 +1300,11 @@ msgstr "Formato da Data:"
 #: ../library/functions/template-functions.php:186
 #: ../library/functions/template-functions.php:473
 msgid "Asked Source "
-msgstr ""
+msgstr "Fonte"
 
 #: ../library/functions/template-functions.php:191
 msgid "Political Positioning "
-msgstr ""
+msgstr "Posição Política"
 
 #: ../library/functions/template-functions.php:202
 #: ../library/functions/template-functions.php:481
@@ -1330,7 +1336,7 @@ msgstr "Website"
 #: ../library/functions/template-functions.php:229
 #: ../library/functions/template-functions.php:518
 msgid "Social Networks "
-msgstr ""
+msgstr "Redes sociais"
 
 #: ../library/functions/template-functions.php:234
 msgid "Easiest way<br/ >to Contact "
@@ -1358,7 +1364,7 @@ msgstr "GTalk"
 
 #: ../library/functions/template-functions.php:454
 msgid "Year of Creation "
-msgstr ""
+msgstr "Ano de criação"
 
 #: ../library/functions/template-functions.php:456
 msgid "Year in which the institution was created"
@@ -1366,7 +1372,7 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:459
 msgid "Legally Constituted? "
-msgstr ""
+msgstr "Legalmente constituído?"
 
 #: ../library/functions/template-functions.php:491
 #, fuzzy
@@ -1384,7 +1390,7 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:543
 msgid "Institutional Characterization"
-msgstr ""
+msgstr "Carecterização Institucional"
 
 #: ../library/functions/template-functions.php:549
 msgid "Areas of Interest"
@@ -1392,15 +1398,15 @@ msgstr "Áreas de Interesse"
 
 #: ../library/functions/template-functions.php:559
 msgid "Scope of Practice"
-msgstr ""
+msgstr "Âmbito de Prática"
 
 #: ../library/functions/template-functions.php:565
 msgid "Spaces of Participation"
-msgstr ""
+msgstr "Áreas de participação"
 
 #: ../library/functions/template-functions.php:576
 msgid "Social and Environmental Impacts"
-msgstr ""
+msgstr "Impacto social e ambiental"
 
 #: ../library/functions/template-functions.php:592
 msgid ""
@@ -1420,7 +1426,7 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:604
 msgid "Since when does it occur?"
-msgstr ""
+msgstr "Desde quando isso ocorre?"
 
 #: ../library/functions/template-functions.php:610
 msgid "The case was taken to some instance?"
@@ -1436,7 +1442,7 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:631
 msgid "Relationship with Litoral Sustentável project"
-msgstr ""
+msgstr "Relação com Projeto Litoral Sustentável"
 
 #: ../library/functions/template-functions.php:637
 #: ../library/functions/content-functions.php:447
@@ -1467,19 +1473,19 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:814
 msgid "Acting "
-msgstr ""
+msgstr "Atuação"
 
 #: ../library/functions/template-functions.php:819
 msgid "Interests "
-msgstr ""
+msgstr "Interesses"
 
 #: ../library/functions/template-functions.php:824
 msgid "Participation "
-msgstr ""
+msgstr "Participação"
 
 #: ../library/functions/template-functions.php:829
 msgid "Relationship with Litoral Sustentável project "
-msgstr ""
+msgstr "Relação com Projeto Litoral Sustentável"
 
 #: ../library/functions/template-functions.php:833
 msgid "Participated in any event the Project? "
@@ -1491,7 +1497,7 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:865
 msgid "Role"
-msgstr ""
+msgstr "Papel"
 
 #: ../library/functions/template-functions.php:867
 #, fuzzy
@@ -1509,7 +1515,7 @@ msgstr "Categorias"
 
 #: ../library/functions/messages.php:21
 msgid "Sorry, you don't have permission to view this page."
-msgstr ""
+msgstr "Desculpe, você não tem permissão para ver esta página."
 
 #: ../library/functions/messages.php:34
 msgid "This page is totally widgetized."
@@ -1517,11 +1523,11 @@ msgstr ""
 
 #: ../library/functions/messages.php:34
 msgid "Just drop some widgets here to fill it up."
-msgstr ""
+msgstr "Basta soltar alguns widgets aqui para preenchê-lo."
 
 #: ../library/functions/messages.php:47
 msgid "If you want to get rid of this message, you really need to enter a "
-msgstr ""
+msgstr "Se quiser livrar-se desta mensagem, você realmente precisa entrar uma"
 
 #: ../library/functions/messages.php:48
 msgid "Contact"
@@ -1537,7 +1543,7 @@ msgstr "Instituição."
 
 #: ../library/functions/messages.php:51
 msgid "You may also want to make sure your "
-msgstr ""
+msgstr "Você também pode querer certificar-se de sua"
 
 #: ../library/functions/messages.php:52
 msgid "Permalinks"
@@ -1566,6 +1572,7 @@ msgstr ""
 #: ../library/functions/header-functions.php:120
 msgid "JavaScript is disabled. For RoloPress to work properly,"
 msgstr ""
+"JavaScript está desabilitado. Para o RoloPress trabalhar adequadamente, "
 
 #: ../library/functions/header-functions.php:120
 msgid "please enable JavaScript."
@@ -1582,20 +1589,20 @@ msgstr "Olá"
 #: ../library/functions/company-functions.php:47
 #: ../library/functions/contact-functions.php:50
 msgid "Notes successfully added."
-msgstr ""
+msgstr "Notas adicionadas com sucesso."
 
 #: ../library/functions/company-functions.php:50
 #: ../library/functions/contact-functions.php:53
 msgid "There was some problem in inserting the notes"
-msgstr ""
+msgstr "Houve algum problema colocando uma nota"
 
 #: ../library/functions/company-functions.php:75
 msgid "Company information successfully edited."
-msgstr ""
+msgstr "Informação da Instituição editada com sucesso."
 
 #: ../library/functions/company-functions.php:77
 msgid "There was some problem in inserting the company info"
-msgstr ""
+msgstr "Houve algum problema colocando a informação da instituição"
 
 #: ../library/functions/company-functions.php:105
 #: ../library/functions/company-functions.php:170
@@ -1657,11 +1664,11 @@ msgstr "Todos Itens"
 
 #: ../library/functions/content-functions.php:339
 msgid "Search Results for: "
-msgstr ""
+msgstr "Resultado de busca para"
 
 #: ../library/functions/content-functions.php:343
 msgid "Items Categorized As: "
-msgstr ""
+msgstr "Ítem categorizado como:"
 
 #: ../library/functions/content-functions.php:347
 msgid "Items Tagged As: "
@@ -1677,17 +1684,17 @@ msgstr "Propriedade de: "
 
 #: ../library/functions/content-functions.php:359
 msgid "Items Created On: "
-msgstr ""
+msgstr "Ítem criado no:"
 
 #: ../library/functions/content-functions.php:361
 #: ../library/functions/content-functions.php:363
 msgid "Items Created In: "
-msgstr ""
+msgstr "Ítem criado em:"
 
 #: ../library/functions/content-functions.php:405
 #, php-format
 msgid "Also assigned to %s"
-msgstr ""
+msgstr "Também designado para %s"
 
 #: ../library/functions/content-functions.php:416
 msgid "Tagged: "
@@ -1772,7 +1779,7 @@ msgstr "Y"
 #: ../library/functions/dynamic-classes.php:439
 #, php-format
 msgid "Search results for &quot;%1$s&quot;"
-msgstr ""
+msgstr "Resultado de busca para &quot;%1$s&quot;"
 
 #: ../library/functions/dynamic-classes.php:442
 msgid "404 Not Found"
@@ -1789,7 +1796,7 @@ msgstr "Informação de contato adicionado com sucesso."
 
 #: ../library/functions/contact-functions.php:80
 msgid "There was some problem in inserting the contact info"
-msgstr ""
+msgstr "Houve algum problema colocando a informação do contato"
 
 #: ../library/functions/contact-functions.php:156
 msgid "Edit Contact"
