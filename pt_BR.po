@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Contatos Polis\n"
 "POT-Creation-Date: 2014-01-30 22:22-0300\n"
-"PO-Revision-Date: 2014-01-31 14:06-0300\n"
+"PO-Revision-Date: 2014-01-31 15:05-0300\n"
 "Last-Translator: Diego Rojas <diego@brasa.art.br>\n"
 "Language-Team: brasa.art.br <contato@brasa.art.br>\n"
 "Language: pt_BR\n"
@@ -80,7 +80,7 @@ msgstr "Adicionar uma Nota"
 
 #: ../notes.php:64
 msgid "Add a Note Attachment"
-msgstr ""
+msgstr "Adicionar uma nota anexa"
 
 #: ../notes.php:67
 msgid "Cancel attachment to note"
@@ -683,7 +683,7 @@ msgstr "Abrangência da Atuação"
 
 #: ../library/setup/setup-fields.php:559
 msgid "Áreas de Interesse"
-msgstr ""
+msgstr "Áreas de Interesse"
 
 #: ../library/widgets/add-company-form.php:17
 msgid "Displays Add Company Form"
@@ -692,7 +692,7 @@ msgstr ""
 #: ../library/widgets/add-company-form.php:19
 #: ../library/widgets/add-company-form.php:49
 msgid "Add Company Form"
-msgstr ""
+msgstr "Adicionar campo para Instituição"
 
 #: ../library/widgets/add-company-form.php:58 ../library/widgets/tags.php:99
 #: ../library/widgets/calendar.php:54 ../library/widgets/owners.php:92
@@ -710,6 +710,7 @@ msgstr "Título:"
 msgid ""
 "An advanced widget that gives you total control over the output of your tags."
 msgstr ""
+"Um widget avançado que permite controle total da visualização de suas tags."
 
 #: ../library/widgets/tags.php:103
 msgid "Taxonomy:"
@@ -766,6 +767,7 @@ msgid ""
 "An advanced widget that gives you total control over the output of your "
 "calendar."
 msgstr ""
+"Um widget avançado que permite controle total da visualização de sua agenda."
 
 #: ../library/widgets/calendar.php:18 ../library/widgets/calendar.php:50
 msgid "Calendar"
@@ -780,6 +782,7 @@ msgid ""
 "An advanced widget that gives you total control over the output of your "
 "bookmarks (links)."
 msgstr ""
+"Um widget avançado que permite controle total da visualização de seus Links."
 
 #: ../library/widgets/bookmarks.php:18 ../library/widgets/bookmarks.php:89
 msgid "Bookmarks"
@@ -879,6 +882,8 @@ msgid ""
 "An advanced widget that gives you total control over the output of your item "
 "owner lists."
 msgstr ""
+"Um widget avançado que permite controle total da visualização de sua "
+"listagem de ítens."
 
 #: ../library/widgets/owners.php:18 ../library/widgets/owners.php:25
 #: ../library/widgets/owners.php:82
@@ -957,7 +962,7 @@ msgstr ""
 msgid ""
 "An advanced widget that gives you total control over the output of your "
 "search form."
-msgstr ""
+msgstr "Um widget avançado que permite controle total da visualização"
 
 #: ../library/widgets/search.php:18 ../library/widgets/search.php:84
 msgid "Search"
@@ -995,6 +1000,8 @@ msgid ""
 "An advanced widget that gives you total control over the output of your "
 "recently created items."
 msgstr ""
+"Um widget avançado que permite controle total da visualização de seus ítens "
+"recentemente criados."
 
 #: ../library/widgets/recent-items.php:18
 #: ../library/widgets/recent-items.php:24
@@ -1061,6 +1068,8 @@ msgid ""
 "An advanced widget that gives you total control over the output of your page "
 "links."
 msgstr ""
+"Um widget avançado que permite controle total da visualização dos links para "
+"suas páginas."
 
 #: ../library/widgets/pages.php:20 ../library/widgets/pages.php:28
 #: ../library/widgets/pages.php:119
@@ -1126,6 +1135,8 @@ msgid ""
 "An advanced widget that gives you total control over the output of your "
 "category links."
 msgstr ""
+"Um widget avançado que permite controle total da visualização das categorias "
+"de seus links."
 
 #: ../library/widgets/categories.php:18 ../library/widgets/categories.php:113
 #: ../library/functions/template-functions.php:1272
@@ -1197,7 +1208,7 @@ msgstr "Menu"
 
 #: ../library/functions/widgets.php:27
 msgid "Adds items to the default menu"
-msgstr ""
+msgstr "Adicionar ítem no menu padrão"
 
 #: ../library/functions/widgets.php:29
 msgid "Primary"
@@ -1248,11 +1259,11 @@ msgstr ""
 #: ../library/functions/template-functions.php:139
 #: ../library/functions/template-functions.php:448
 msgid "Change Image"
-msgstr ""
+msgstr "Mudar imagem"
 
 #: ../library/functions/template-functions.php:153
 msgid "City of Residence "
-msgstr ""
+msgstr "Cidade que reside"
 
 #: ../library/functions/template-functions.php:158
 #: ../library/functions/template-functions.php:496
@@ -1377,7 +1388,7 @@ msgstr ""
 
 #: ../library/functions/template-functions.php:549
 msgid "Areas of Interest"
-msgstr ""
+msgstr "Áreas de Interesse"
 
 #: ../library/functions/template-functions.php:559
 msgid "Scope of Practice"
@@ -1549,6 +1560,8 @@ msgid ""
 "Apologies, but we were unable to find what you were looking for. Perhaps "
 "searching will help."
 msgstr ""
+"Desculpe, mas não conseguimos achar o que você procura. Talvez a busca irá "
+"ajudar."
 
 #: ../library/functions/header-functions.php:120
 msgid "JavaScript is disabled. For RoloPress to work properly,"
@@ -1627,7 +1640,7 @@ msgstr "Deletar"
 #: ../library/functions/company-functions.php:520
 #: ../library/functions/contact-functions.php:469
 msgid "Add another"
-msgstr ""
+msgstr "Adicionar outra"
 
 #: ../library/functions/content-functions.php:331
 #, fuzzy
@@ -1772,7 +1785,7 @@ msgstr "%1$s Página %2$s"
 
 #: ../library/functions/contact-functions.php:78
 msgid "Contact information successfully added."
-msgstr ""
+msgstr "Informação de contato adicionado com sucesso."
 
 #: ../library/functions/contact-functions.php:80
 msgid "There was some problem in inserting the contact info"
