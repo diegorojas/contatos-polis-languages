@@ -2,27 +2,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Contatos Polis\n"
 "POT-Creation-Date: 2014-01-30 22:22-0300\n"
-"PO-Revision-Date: 2014-01-31 12:08-0300\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-01-31 12:17-0300\n"
+"Last-Translator: Diego Rojas <diego@brasa.art.br>\n"
 "Language-Team: brasa.art.br <contato@brasa.art.br>\n"
 "Language: Português (Brasil)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
-"X-Poedit-KeywordsList: __;_e;_ngettext;_n;_n_ngettext_noop;_n_noop;_x;_nx;"
-"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
-"esc_html_x;_c;_nc\n"
+"X-Poedit-KeywordsList: __;_e;_ngettext;_n;_n_ngettext_noop;_n_noop;_x;_nx;_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;_nc\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../footer.php:10 ../library/admin/admin-branding.php:40
+#: ../footer.php:10
+#: ../library/admin/admin-branding.php:40
 msgid "Powered by "
 msgstr "Criado com "
 
-#: ../footer.php:10 ../library/admin/admin-menu/admin-setup-menus.php:16
+#: ../footer.php:10
+#: ../library/admin/admin-menu/admin-setup-menus.php:16
 msgid "RoloPress"
 msgstr "RoloPress"
 
@@ -31,28 +31,27 @@ msgid "Skip to main"
 msgstr ""
 
 #: ../company-add.php:31
-msgid ""
-"Adicione o Nome da instituição que pretende cadastrar. Após clicar em "
-"Adicionar Instituição você será redirecionado para a página onde poderá "
-"completar o preenchimento de todos os campos desse contato."
-msgstr ""
+msgid "Adicione o Nome da instituição que pretende cadastrar. Após clicar em Adicionar Instituição você será redirecionado para a página onde poderá completar o preenchimento de todos os campos desse contato."
+msgstr "Adicione o Nome da instituição que pretende cadastrar. Após clicar em Adicionar Instituição você será redirecionado para a página onde poderá completar o preenchimento de todos os campos desse contato."
 
 #: ../company-add.php:38
 msgid "* Nome (Razão Social)"
-msgstr ""
+msgstr "* Nome (Razão Social)"
 
-#: ../company-add.php:45 ../contact-add.php:48
+#: ../company-add.php:45
+#: ../contact-add.php:48
 #, fuzzy
 msgid "* E-mail"
 msgstr "Email"
 
 #: ../company-add.php:51
 msgid "* Cidade"
-msgstr ""
+msgstr "* Cidade"
 
-#: ../company-add.php:56 ../contact-add.php:59
+#: ../company-add.php:56
+#: ../contact-add.php:59
 msgid "* Estado"
-msgstr ""
+msgstr "* Estado"
 
 #: ../notes.php:14
 msgid "This item is password protected. Enter the password to view notes."
@@ -66,7 +65,8 @@ msgstr "Sem Notas"
 msgid "One Note"
 msgstr "Uma Nota"
 
-#: ../notes.php:24 ../library/functions/content-functions.php:427
+#: ../notes.php:24
+#: ../library/functions/content-functions.php:427
 #: ../library/functions/content-functions.php:429
 msgid "% Notes"
 msgstr "% Notas"
@@ -109,9 +109,7 @@ msgstr ""
 
 #: ../notes.php:137
 #, php-format
-msgid ""
-"<span class=\"added-by\">Added by: </span><cite class=\"commenter\">%s</"
-"cite><span class=\"added-on\"> on </span>"
+msgid "<span class=\"added-by\">Added by: </span><cite class=\"commenter\">%s</cite><span class=\"added-on\"> on </span>"
 msgstr ""
 
 #: ../notes.php:140
@@ -120,69 +118,66 @@ msgid "%1$s at %2$s"
 msgstr ""
 
 #: ../contact-add.php:34
-msgid ""
-"Adicione o Nome Completo e o E-mail do indivíduo que pretende cadastrar. "
-"Após clicar em Adicionar Contato você será redirecionado para a página onde "
-"poderá completar o preenchimento de todos os campos desse contato."
-msgstr ""
+msgid "Adicione o Nome Completo e o E-mail do indivíduo que pretende cadastrar. Após clicar em Adicionar Contato você será redirecionado para a página onde poderá completar o preenchimento de todos os campos desse contato."
+msgstr "Adicione o Nome Completo e o E-mail do indivíduo que pretende cadastrar. Após clicar em Adicionar Contato você será redirecionado para a página onde poderá completar o preenchimento de todos os campos desse contato."
 
 #: ../contact-add.php:41
 msgid "* Nome Completo"
-msgstr ""
+msgstr "* Nome Completo"
 
 #: ../contact-add.php:54
 msgid "* Cidade de Moradia"
-msgstr ""
+msgstr "* Cidade de Moradia"
 
 #: ../page-busca.php:33
-msgid ""
-"Selecione o público para ver o formulário completo. Lembre-se, quanto mais "
-"campos preencher mais específico será o seu resultado."
-msgstr ""
+msgid "Selecione o público para ver o formulário completo. Lembre-se, quanto mais campos preencher mais específico será o seu resultado."
+msgstr "Selecione o público para ver o formulário completo. Lembre-se, quanto mais campos preencher mais específico será o seu resultado."
 
 #: ../page-busca.php:40
 msgid "Buscar por"
-msgstr ""
+msgstr "Buscar por"
 
 #: ../page-busca.php:51
 msgid "Nome"
-msgstr ""
+msgstr "Nome"
 
 #: ../page-busca.php:56
 msgid "Município"
-msgstr ""
+msgstr "Município"
 
 #: ../page-busca.php:61
 msgid "UF"
-msgstr ""
+msgstr "UF"
 
 #: ../page-busca.php:102
 msgid "Cargo"
-msgstr ""
+msgstr "Cargo"
 
 #: ../page-busca.php:107
 msgid "Instituição em que atua"
-msgstr ""
+msgstr "Instituição em que atua"
 
-#: ../page-busca.php:119 ../library/setup/setup-fields.php:557
+#: ../page-busca.php:119
+#: ../library/setup/setup-fields.php:557
 msgid "Caracterização Institucional"
-msgstr ""
+msgstr "Caracterização Institucional"
 
 #: ../page-busca.php:128
 msgid "Áreas de interesse"
-msgstr ""
+msgstr "Áreas de interesse"
 
 #: ../page-busca.php:141
 msgid "Abrangência de atuação"
-msgstr ""
+msgstr "Abrangência de atuação"
 
 #: ../page-busca.php:150
 msgid "Impactos Socioambientais"
-msgstr ""
+msgstr "Impactos Socioambientais"
 
-#: ../page-busca.php:159 ../library/setup/setup-fields.php:560
+#: ../page-busca.php:159
+#: ../library/setup/setup-fields.php:560
 msgid "Espaços de Participação"
-msgstr ""
+msgstr "Espaços de Participação"
 
 #: ../library/extensions/extended-admin-post-filter/extend-admin-post-filter.php:42
 msgid "View all Owners"
@@ -320,7 +315,8 @@ msgid "Contact Settings"
 msgstr "Configurações do Contato"
 
 #: ../library/admin/admin-menu/admin-setup-menus.php:22
-#: ../library/setup/settings.php:146 ../library/setup/settings.php:149
+#: ../library/setup/settings.php:146
+#: ../library/setup/settings.php:149
 #: ../library/functions/template-functions.php:864
 msgid "Contacts"
 msgstr "Contatos"
@@ -330,8 +326,10 @@ msgid "Company Settings"
 msgstr "Configurações da Instituição"
 
 #: ../library/admin/admin-menu/admin-setup-menus.php:25
-#: ../library/setup/settings.php:182 ../library/setup/settings.php:185
-#: ../library/widgets/companies.php:25 ../library/widgets/companies.php:32
+#: ../library/setup/settings.php:182
+#: ../library/setup/settings.php:185
+#: ../library/widgets/companies.php:25
+#: ../library/widgets/companies.php:32
 #: ../library/widgets/companies.php:102
 msgid "Companies"
 msgstr "Instituições"
@@ -340,13 +338,15 @@ msgstr "Instituições"
 msgid "Image"
 msgstr "Imagem"
 
-#: ../library/setup/settings.php:164 ../library/setup/settings.php:167
+#: ../library/setup/settings.php:164
+#: ../library/setup/settings.php:167
 #: ../library/widgets/add-contact-form.php:26
 #: ../library/functions/contact-functions.php:220
 msgid "Add Contact"
 msgstr "Adicionar Contato"
 
-#: ../library/setup/settings.php:200 ../library/setup/settings.php:203
+#: ../library/setup/settings.php:200
+#: ../library/setup/settings.php:203
 #: ../library/widgets/add-company-form.php:26
 msgid "Add Company"
 msgstr "Adicionar Instituição"
@@ -364,7 +364,8 @@ msgstr "Último Nome"
 msgid "Workplace"
 msgstr "Trabalho"
 
-#: ../library/setup/setup-fields.php:63 ../library/setup/setup-fields.php:551
+#: ../library/setup/setup-fields.php:63
+#: ../library/setup/setup-fields.php:551
 #: ../library/functions/template-functions.php:284
 #: ../library/functions/template-functions.php:962
 msgid "City"
@@ -374,75 +375,89 @@ msgstr "Cidade"
 msgid "Title"
 msgstr "Título"
 
-#: ../library/setup/setup-fields.php:89 ../library/setup/setup-fields.php:550
+#: ../library/setup/setup-fields.php:89
+#: ../library/setup/setup-fields.php:550
 msgid "Company"
 msgstr "Instituição"
 
-#: ../library/setup/setup-fields.php:102 ../library/setup/setup-fields.php:293
+#: ../library/setup/setup-fields.php:102
+#: ../library/setup/setup-fields.php:293
 msgid "Email"
 msgstr "Email"
 
-#: ../library/setup/setup-fields.php:111 ../library/widgets/pages.php:85
+#: ../library/setup/setup-fields.php:111
+#: ../library/widgets/pages.php:85
 #: ../library/functions/template-functions.php:297
 msgid "Home"
 msgstr "Home"
 
-#: ../library/setup/setup-fields.php:111 ../library/setup/setup-fields.php:302
+#: ../library/setup/setup-fields.php:111
+#: ../library/setup/setup-fields.php:302
 #: ../library/functions/template-functions.php:296
 #: ../library/functions/template-functions.php:977
 msgid "Mobile"
 msgstr "Celular"
 
-#: ../library/setup/setup-fields.php:111 ../library/setup/setup-fields.php:302
+#: ../library/setup/setup-fields.php:111
+#: ../library/setup/setup-fields.php:302
 #: ../library/functions/template-functions.php:298
 #: ../library/functions/template-functions.php:978
 msgid "Work"
 msgstr "Trabalho"
 
-#: ../library/setup/setup-fields.php:111 ../library/setup/setup-fields.php:302
+#: ../library/setup/setup-fields.php:111
+#: ../library/setup/setup-fields.php:302
 #: ../library/functions/template-functions.php:299
 #: ../library/functions/template-functions.php:979
 msgid "Fax"
 msgstr "Fax"
 
-#: ../library/setup/setup-fields.php:111 ../library/setup/setup-fields.php:302
+#: ../library/setup/setup-fields.php:111
+#: ../library/setup/setup-fields.php:302
 #: ../library/functions/template-functions.php:300
 #: ../library/functions/template-functions.php:980
 msgid "Other"
 msgstr "Outro"
 
-#: ../library/setup/setup-fields.php:116 ../library/setup/setup-fields.php:307
+#: ../library/setup/setup-fields.php:116
+#: ../library/setup/setup-fields.php:307
 #: ../library/functions/template-functions.php:866
 msgid "Phone"
 msgstr "Telefone"
 
-#: ../library/setup/setup-fields.php:129 ../library/setup/setup-fields.php:320
+#: ../library/setup/setup-fields.php:129
+#: ../library/setup/setup-fields.php:320
 #: ../library/functions/template-functions.php:316
 #: ../library/functions/template-functions.php:997
 msgid "Website"
 msgstr "Website"
 
-#: ../library/setup/setup-fields.php:139 ../library/setup/setup-fields.php:330
+#: ../library/setup/setup-fields.php:139
+#: ../library/setup/setup-fields.php:330
 #: ../library/functions/template-functions.php:307
 #: ../library/functions/template-functions.php:988
 msgid "Yahoo"
 msgstr "Yahoo"
 
-#: ../library/setup/setup-fields.php:139 ../library/setup/setup-fields.php:330
+#: ../library/setup/setup-fields.php:139
+#: ../library/setup/setup-fields.php:330
 #: ../library/functions/template-functions.php:308
 #: ../library/functions/template-functions.php:989
 msgid "MSN"
 msgstr "MSN"
 
-#: ../library/setup/setup-fields.php:139 ../library/setup/setup-fields.php:330
+#: ../library/setup/setup-fields.php:139
+#: ../library/setup/setup-fields.php:330
 msgid "AOL"
 msgstr "AOL"
 
-#: ../library/setup/setup-fields.php:139 ../library/setup/setup-fields.php:330
+#: ../library/setup/setup-fields.php:139
+#: ../library/setup/setup-fields.php:330
 msgid "Gtalk"
 msgstr "Gtalk"
 
-#: ../library/setup/setup-fields.php:139 ../library/setup/setup-fields.php:330
+#: ../library/setup/setup-fields.php:139
+#: ../library/setup/setup-fields.php:330
 #: ../library/functions/template-functions.php:311
 msgid "Skype"
 msgstr "Skype"
@@ -451,13 +466,15 @@ msgstr "Skype"
 msgid "IM"
 msgstr "IM"
 
-#: ../library/setup/setup-fields.php:157 ../library/setup/setup-fields.php:348
+#: ../library/setup/setup-fields.php:157
+#: ../library/setup/setup-fields.php:348
 #: ../library/functions/template-functions.php:312
 #: ../library/functions/template-functions.php:992
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ../library/setup/setup-fields.php:171 ../library/setup/setup-fields.php:362
+#: ../library/setup/setup-fields.php:171
+#: ../library/setup/setup-fields.php:362
 msgid "Address"
 msgstr "Endereço"
 
@@ -474,12 +491,15 @@ msgstr ""
 msgid "Party Afiliation"
 msgstr ""
 
-#: ../library/setup/setup-fields.php:223 ../library/setup/setup-fields.php:388
+#: ../library/setup/setup-fields.php:223
+#: ../library/setup/setup-fields.php:388
 msgid "Background Info"
 msgstr "Informações de Background"
 
-#: ../library/setup/setup-fields.php:236 ../library/setup/setup-fields.php:401
-#: ../library/widgets/tags.php:18 ../library/widgets/tags.php:94
+#: ../library/setup/setup-fields.php:236
+#: ../library/setup/setup-fields.php:401
+#: ../library/widgets/tags.php:18
+#: ../library/widgets/tags.php:94
 #: ../library/functions/template-functions.php:319
 #: ../library/functions/template-functions.php:1000
 msgid "Tags"
@@ -501,7 +521,8 @@ msgstr ""
 msgid "Information Source"
 msgstr ""
 
-#: ../library/setup/setup-fields.php:410 ../library/setup/setup-fields.php:415
+#: ../library/setup/setup-fields.php:410
+#: ../library/setup/setup-fields.php:415
 msgid "Popular Movements"
 msgstr ""
 
@@ -521,10 +542,14 @@ msgstr ""
 msgid "Cooperative of paper collectors"
 msgstr ""
 
-#: ../library/setup/setup-fields.php:410 ../library/setup/setup-fields.php:425
-#: ../library/setup/setup-fields.php:440 ../library/setup/setup-fields.php:455
-#: ../library/setup/setup-fields.php:470 ../library/setup/setup-fields.php:485
-#: ../library/setup/setup-fields.php:504 ../library/setup/setup-fields.php:514
+#: ../library/setup/setup-fields.php:410
+#: ../library/setup/setup-fields.php:425
+#: ../library/setup/setup-fields.php:440
+#: ../library/setup/setup-fields.php:455
+#: ../library/setup/setup-fields.php:470
+#: ../library/setup/setup-fields.php:485
+#: ../library/setup/setup-fields.php:504
+#: ../library/setup/setup-fields.php:514
 #: ../library/setup/setup-fields.php:529
 #, fuzzy
 msgid "Others"
@@ -621,15 +646,18 @@ msgstr ""
 msgid "Forum"
 msgstr "Fóruns"
 
-#: ../library/setup/setup-fields.php:514 ../library/setup/setup-fields.php:529
+#: ../library/setup/setup-fields.php:514
+#: ../library/setup/setup-fields.php:529
 msgid "Comitee"
 msgstr ""
 
-#: ../library/setup/setup-fields.php:514 ../library/setup/setup-fields.php:529
+#: ../library/setup/setup-fields.php:514
+#: ../library/setup/setup-fields.php:529
 msgid "Council"
 msgstr ""
 
-#: ../library/setup/setup-fields.php:514 ../library/setup/setup-fields.php:529
+#: ../library/setup/setup-fields.php:514
+#: ../library/setup/setup-fields.php:529
 msgid "Network"
 msgstr ""
 
@@ -684,12 +712,16 @@ msgstr ""
 msgid "Add Company Form"
 msgstr ""
 
-#: ../library/widgets/add-company-form.php:58 ../library/widgets/tags.php:99
-#: ../library/widgets/calendar.php:54 ../library/widgets/owners.php:92
-#: ../library/widgets/recent-notes.php:110 ../library/widgets/search.php:89
+#: ../library/widgets/add-company-form.php:58
+#: ../library/widgets/tags.php:99
+#: ../library/widgets/calendar.php:54
+#: ../library/widgets/owners.php:92
+#: ../library/widgets/recent-notes.php:110
+#: ../library/widgets/search.php:89
 #: ../library/widgets/companies.php:112
 #: ../library/widgets/recent-items.php:113
-#: ../library/widgets/company-details.php:58 ../library/widgets/pages.php:129
+#: ../library/widgets/company-details.php:58
+#: ../library/widgets/pages.php:129
 #: ../library/widgets/categories.php:118
 #: ../library/widgets/contact-details.php:58
 #: ../library/widgets/add-contact-form.php:58
@@ -697,67 +729,78 @@ msgid "Title:"
 msgstr "Título:"
 
 #: ../library/widgets/tags.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your tags."
+msgid "An advanced widget that gives you total control over the output of your tags."
 msgstr ""
 
 #: ../library/widgets/tags.php:103
 msgid "Taxonomy:"
 msgstr ""
 
-#: ../library/widgets/tags.php:114 ../library/widgets/companies.php:116
+#: ../library/widgets/tags.php:114
+#: ../library/widgets/companies.php:116
 #: ../library/widgets/recent-items.php:122
 msgid "Format:"
 msgstr "Formato:"
 
-#: ../library/widgets/tags.php:121 ../library/widgets/companies.php:123
+#: ../library/widgets/tags.php:121
+#: ../library/widgets/companies.php:123
 #: ../library/widgets/categories.php:129
 msgid "Order:"
 msgstr "Ordem:"
 
-#: ../library/widgets/tags.php:129 ../library/widgets/companies.php:131
-#: ../library/widgets/pages.php:133 ../library/widgets/categories.php:136
+#: ../library/widgets/tags.php:129
+#: ../library/widgets/companies.php:131
+#: ../library/widgets/pages.php:133
+#: ../library/widgets/categories.php:136
 msgid "Order By:"
 msgstr "Ordenar por:"
 
-#: ../library/widgets/tags.php:136 ../library/widgets/companies.php:138
+#: ../library/widgets/tags.php:136
+#: ../library/widgets/companies.php:138
 #: ../library/widgets/categories.php:163
 msgid "Number:"
 msgstr "Número:"
 
-#: ../library/widgets/tags.php:143 ../library/widgets/companies.php:145
+#: ../library/widgets/tags.php:143
+#: ../library/widgets/companies.php:145
 msgid "Largest:"
 msgstr ""
 
-#: ../library/widgets/tags.php:147 ../library/widgets/companies.php:149
+#: ../library/widgets/tags.php:147
+#: ../library/widgets/companies.php:149
 msgid "Smallest:"
 msgstr ""
 
-#: ../library/widgets/tags.php:151 ../library/widgets/companies.php:153
+#: ../library/widgets/tags.php:151
+#: ../library/widgets/companies.php:153
 msgid "Unit:"
 msgstr ""
 
-#: ../library/widgets/tags.php:160 ../library/widgets/companies.php:162
-#: ../library/widgets/pages.php:156 ../library/widgets/categories.php:148
+#: ../library/widgets/tags.php:160
+#: ../library/widgets/companies.php:162
+#: ../library/widgets/pages.php:156
+#: ../library/widgets/categories.php:148
 msgid "Exclude:"
 msgstr "Excluir:"
 
-#: ../library/widgets/tags.php:164 ../library/widgets/companies.php:166
-#: ../library/widgets/pages.php:170 ../library/widgets/categories.php:144
+#: ../library/widgets/tags.php:164
+#: ../library/widgets/companies.php:166
+#: ../library/widgets/pages.php:170
+#: ../library/widgets/categories.php:144
 msgid "Include:"
 msgstr ""
 
-#: ../library/widgets/tags.php:168 ../library/widgets/companies.php:170
+#: ../library/widgets/tags.php:168
+#: ../library/widgets/companies.php:170
 msgid "Link:"
 msgstr "Link:"
 
 #: ../library/widgets/calendar.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your "
-"calendar."
+msgid "An advanced widget that gives you total control over the output of your calendar."
 msgstr ""
 
-#: ../library/widgets/calendar.php:18 ../library/widgets/calendar.php:50
+#: ../library/widgets/calendar.php:18
+#: ../library/widgets/calendar.php:50
 msgid "Calendar"
 msgstr "Calendário"
 
@@ -766,12 +809,11 @@ msgid "One-letter abbreviation?"
 msgstr ""
 
 #: ../library/widgets/bookmarks.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your "
-"bookmarks (links)."
+msgid "An advanced widget that gives you total control over the output of your bookmarks (links)."
 msgstr ""
 
-#: ../library/widgets/bookmarks.php:18 ../library/widgets/bookmarks.php:89
+#: ../library/widgets/bookmarks.php:18
+#: ../library/widgets/bookmarks.php:89
 msgid "Bookmarks"
 msgstr ""
 
@@ -824,11 +866,13 @@ msgstr ""
 msgid "Between:"
 msgstr "Enre:"
 
-#: ../library/widgets/bookmarks.php:220 ../library/widgets/pages.php:193
+#: ../library/widgets/bookmarks.php:220
+#: ../library/widgets/pages.php:193
 msgid "Before Link:"
 msgstr ""
 
-#: ../library/widgets/bookmarks.php:224 ../library/widgets/pages.php:197
+#: ../library/widgets/bookmarks.php:224
+#: ../library/widgets/pages.php:197
 msgid "After Link:"
 msgstr ""
 
@@ -865,31 +909,30 @@ msgid "Show private?"
 msgstr ""
 
 #: ../library/widgets/owners.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your item "
-"owner lists."
+msgid "An advanced widget that gives you total control over the output of your item owner lists."
 msgstr ""
 
-#: ../library/widgets/owners.php:18 ../library/widgets/owners.php:25
+#: ../library/widgets/owners.php:18
+#: ../library/widgets/owners.php:25
 #: ../library/widgets/owners.php:82
 msgid "Owners"
 msgstr "Proprietários"
 
 #: ../library/widgets/owners.php:87
-msgid ""
-"Displays a list of users (owners) that have created items.  Best for "
-"multiuser installs where you would want to see what items each user created."
+msgid "Displays a list of users (owners) that have created items.  Best for multiuser installs where you would want to see what items each user created."
 msgstr ""
 
 #: ../library/widgets/owners.php:96
 msgid "Feed:"
 msgstr "Feed:"
 
-#: ../library/widgets/owners.php:100 ../library/widgets/categories.php:175
+#: ../library/widgets/owners.php:100
+#: ../library/widgets/categories.php:175
 msgid "Feed Image:"
 msgstr ""
 
-#: ../library/widgets/owners.php:104 ../library/widgets/categories.php:122
+#: ../library/widgets/owners.php:104
+#: ../library/widgets/categories.php:122
 msgid "Style:"
 msgstr "Estilo:"
 
@@ -901,19 +944,21 @@ msgstr " HTML?"
 msgid "html"
 msgstr "html"
 
-#: ../library/widgets/owners.php:119 ../library/widgets/recent-items.php:142
+#: ../library/widgets/owners.php:119
+#: ../library/widgets/recent-items.php:142
 msgid "Show post count?"
 msgstr ""
 
 #: ../library/widgets/owners.php:123
 msgid "Exclude admin?"
-msgstr ""
+msgstr "Excluir admin?"
 
 #: ../library/widgets/owners.php:127
 msgid "Show full name?"
 msgstr "Mostrar nome completo?"
 
-#: ../library/widgets/owners.php:131 ../library/widgets/categories.php:196
+#: ../library/widgets/owners.php:131
+#: ../library/widgets/categories.php:196
 msgid "Hide empty?"
 msgstr ""
 
@@ -944,12 +989,11 @@ msgid "Show Date and Time:"
 msgstr ""
 
 #: ../library/widgets/search.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your "
-"search form."
+msgid "An advanced widget that gives you total control over the output of your search form."
 msgstr ""
 
-#: ../library/widgets/search.php:18 ../library/widgets/search.php:84
+#: ../library/widgets/search.php:18
+#: ../library/widgets/search.php:84
 msgid "Search"
 msgstr "Procurar"
 
@@ -974,16 +1018,11 @@ msgid "An advanced widget to create a Company list or cloud."
 msgstr ""
 
 #: ../library/widgets/companies.php:107
-msgid ""
-"Displays your Companies as a list by default.  But can also be used to "
-"create a Company Cloud. To display a cloud change the \"Format\" to \"Flat"
-"\", and change the smallest and largest font sizes."
+msgid "Displays your Companies as a list by default.  But can also be used to create a Company Cloud. To display a cloud change the \"Format\" to \"Flat\", and change the smallest and largest font sizes."
 msgstr ""
 
 #: ../library/widgets/recent-items.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your "
-"recently created items."
+msgid "An advanced widget that gives you total control over the output of your recently created items."
 msgstr ""
 
 #: ../library/widgets/recent-items.php:18
@@ -1035,24 +1074,19 @@ msgid "Company Details"
 msgstr "Detalhes da Instituição"
 
 #: ../library/widgets/company-details.php:54
-msgid ""
-"Displays the details for an individual Company. A good place to place this "
-"widget is the Primary or Secondary sidebars, or Company:Under Main."
+msgid "Displays the details for an individual Company. A good place to place this widget is the Primary or Secondary sidebars, or Company:Under Main."
 msgstr ""
 
 #: ../library/widgets/company-details.php:55
-msgid ""
-"This is a Smart Widget, which means it only displays when it is supposed to: "
-"when you view an individual company page."
+msgid "This is a Smart Widget, which means it only displays when it is supposed to: when you view an individual company page."
 msgstr ""
 
 #: ../library/widgets/pages.php:18
-msgid ""
-"An advanced widget that gives you total control over the output of your page "
-"links."
+msgid "An advanced widget that gives you total control over the output of your page links."
 msgstr ""
 
-#: ../library/widgets/pages.php:20 ../library/widgets/pages.php:28
+#: ../library/widgets/pages.php:20
+#: ../library/widgets/pages.php:28
 #: ../library/widgets/pages.php:119
 msgid "Pages"
 msgstr "Páginas"
@@ -1065,21 +1099,22 @@ msgstr ""
 msgid "Sort Order:"
 msgstr ""
 
-#: ../library/widgets/pages.php:152 ../library/widgets/categories.php:156
+#: ../library/widgets/pages.php:152
+#: ../library/widgets/categories.php:156
 msgid "Depth:"
 msgstr ""
 
 #: ../library/widgets/pages.php:159
-msgid ""
-"\"Edit Contact\" and \"Edit Company\" pages are automatically excluded, "
-"since they should not be accessed directly."
+msgid "\"Edit Contact\" and \"Edit Company\" pages are automatically excluded, since they should not be accessed directly."
 msgstr ""
 
-#: ../library/widgets/pages.php:163 ../library/widgets/categories.php:152
+#: ../library/widgets/pages.php:163
+#: ../library/widgets/categories.php:152
 msgid "Exclude Tree:"
 msgstr "Excluir Árvore:"
 
-#: ../library/widgets/pages.php:174 ../library/widgets/categories.php:167
+#: ../library/widgets/pages.php:174
+#: ../library/widgets/categories.php:167
 msgid "Child Of:"
 msgstr "Filho de:"
 
@@ -1103,7 +1138,8 @@ msgstr "Exibir data?:"
 msgid "Date Format:"
 msgstr "Formato da Data:"
 
-#: ../library/widgets/pages.php:214 ../library/widgets/categories.php:180
+#: ../library/widgets/pages.php:214
+#: ../library/widgets/categories.php:180
 msgid "Hierarchical?"
 msgstr ""
 
@@ -1112,12 +1148,11 @@ msgid "Show home?"
 msgstr ""
 
 #: ../library/widgets/categories.php:16
-msgid ""
-"An advanced widget that gives you total control over the output of your "
-"category links."
+msgid "An advanced widget that gives you total control over the output of your category links."
 msgstr ""
 
-#: ../library/widgets/categories.php:18 ../library/widgets/categories.php:113
+#: ../library/widgets/categories.php:18
+#: ../library/widgets/categories.php:113
 #: ../library/functions/template-functions.php:1272
 msgid "Categories"
 msgstr "Categorias"
@@ -1157,15 +1192,11 @@ msgid "Contact Details"
 msgstr "Detalhes do Contato"
 
 #: ../library/widgets/contact-details.php:53
-msgid ""
-"Displays the details for an individual contact. A good place to place this "
-"widget is the Primary or Secondary sidebars, or Contact:Under Main."
+msgid "Displays the details for an individual contact. A good place to place this widget is the Primary or Secondary sidebars, or Contact:Under Main."
 msgstr ""
 
 #: ../library/widgets/contact-details.php:54
-msgid ""
-"This is a Smart Widget, which means it only displays when it is supposed to: "
-"when you view an individual contact page."
+msgid "This is a Smart Widget, which means it only displays when it is supposed to: when you view an individual contact page."
 msgstr ""
 
 #: ../library/widgets/add-contact-form.php:17
@@ -1194,9 +1225,7 @@ msgid "Primary"
 msgstr ""
 
 #: ../library/functions/widgets.php:29
-msgid ""
-"In 2-column themes, this area is located on top of the sidebar.  In 3-column "
-"themes, this area will appear on the left"
+msgid "In 2-column themes, this area is located on top of the sidebar.  In 3-column themes, this area will appear on the left"
 msgstr ""
 
 #: ../library/functions/widgets.php:30
@@ -1204,9 +1233,7 @@ msgid "Secondary"
 msgstr "Secundário"
 
 #: ../library/functions/widgets.php:30
-msgid ""
-"In 2-column themes, this area is located on bottom of the sidebar.  In 3-"
-"column themes, this area will appear on the right"
+msgid "In 2-column themes, this area is located on bottom of the sidebar.  In 3-column themes, this area will appear on the right"
 msgstr ""
 
 #: ../library/functions/widgets.php:31
@@ -1222,8 +1249,7 @@ msgid "Contact: Under Main"
 msgstr ""
 
 #: ../library/functions/widgets.php:32
-msgid ""
-"Located under the contact header information on the single contact page."
+msgid "Located under the contact header information on the single contact page."
 msgstr ""
 
 #: ../library/functions/widgets.php:33
@@ -1231,8 +1257,7 @@ msgid "Company: Under Main"
 msgstr ""
 
 #: ../library/functions/widgets.php:33
-msgid ""
-"Located under the company header information on the single company page."
+msgid "Located under the company header information on the single company page."
 msgstr ""
 
 #: ../library/functions/template-functions.php:139
@@ -1382,8 +1407,7 @@ msgid "Social and Environmental Impacts"
 msgstr ""
 
 #: ../library/functions/template-functions.php:592
-msgid ""
-"You are in conflict with large <br /> projects and / or protected areas? "
+msgid "You are in conflict with large <br /> projects and / or protected areas? "
 msgstr ""
 
 #: ../library/functions/template-functions.php:594
@@ -1391,7 +1415,7 @@ msgstr ""
 #: ../library/functions/template-functions.php:645
 #: ../library/functions/template-functions.php:655
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: ../library/functions/template-functions.php:598
 msgid "Which Project?"
@@ -1535,9 +1559,7 @@ msgid " in \"Custom Structure\"."
 msgstr ""
 
 #: ../library/functions/messages.php:66
-msgid ""
-"Apologies, but we were unable to find what you were looking for. Perhaps "
-"searching will help."
+msgid "Apologies, but we were unable to find what you were looking for. Perhaps searching will help."
 msgstr ""
 
 #: ../library/functions/header-functions.php:120
@@ -1550,11 +1572,11 @@ msgstr ""
 
 #: ../library/functions/header-functions.php:178
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #: ../library/functions/header-functions.php:186
 msgid "Hello "
-msgstr ""
+msgstr "Olá"
 
 #: ../library/functions/company-functions.php:47
 #: ../library/functions/contact-functions.php:50
